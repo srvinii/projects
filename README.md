@@ -1,2 +1,2 @@
 # projects
-this is my projects
+These are my projects
